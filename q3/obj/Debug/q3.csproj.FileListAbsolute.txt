@@ -1,0 +1,10 @@
+D:\Работа\ЦФТ\q3\q3\bin\Debug\q3.exe.config
+D:\Работа\ЦФТ\q3\q3\bin\Debug\q3.exe
+D:\Работа\ЦФТ\q3\q3\bin\Debug\q3.pdb
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.csprojAssemblyReference.cache
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.Properties.Resources.resources
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.csproj.GenerateResource.cache
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.exe
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.pdb
+D:\Работа\ЦФТ\q3\q3\obj\Debug\q3.MainRoot.resources
